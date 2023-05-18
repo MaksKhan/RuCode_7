@@ -1,4 +1,4 @@
-# RuCode_6.5
+# Final solution of RuCode 6.5
 
  # 🚀 What is RuCode?
 
@@ -78,6 +78,10 @@ As we know, BERT models and CatBoost are really different models. So what if we 
 We have used another model from DeepPavlov in order to make sentimental analysis. As expected, only people's responses were negative and most of positive answers were received from AI system). It was really good feature for CatBoost
 
 Unfortunately, we checked this idea on the last day of competition so we didn't have time to make a submission(
+
+### 💀 Training our own Dialogue System
+
+We had an idea of traning our own dialogue system. We wanted to generate answers and then compare them to original answers. If answers are similar enough, that means that interlocutor was an AI.
 
 # 📖 Result
 
