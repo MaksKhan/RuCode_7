@@ -6,7 +6,7 @@ RuCode is an AI competition among students which is held by MYPT university, Yan
 
 ## ✍️ What was the task this year?
 
-The popularity of the 🤖 chat-GPT has also affected this competition. The task was to classify the dialogues in order to find which were conducted by AI system and which were conducted by people.
+The popularity of the 🤖 chat-GPT has also affected this competition. The task was to classify the dialogues in order to find which were conducted by AI system and which were conducted by people (**Text Generation Detection**).
 
 # 🏆 What is our result?
 
