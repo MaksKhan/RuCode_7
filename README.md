@@ -2,7 +2,7 @@
 
  # 🚀 What is RuCode?
 
-RuCode is an AI competition among students which is held by MYPT university, Yandex, Sber and Ministry of science and higher education of the Russian Federation.
+RuCode is an AI competition among students which is held by MIPT university, Yandex, Sber and Ministry of science and higher education of the Russian Federation.
 
 ## ✍️ What was the task this year?
 
