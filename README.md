@@ -16,7 +16,7 @@ The popularity of the 🤖 chat-GPT has also affected this competition. The task
 
 We had about 6k dialogues for training and about 1k for prediction on public leaderbord and 1k on private dataset and all teams had only one attempt to load sumbit on private dataset. As we found out, the public liderboard containded mostly dialogues with people and that's why most of overfitted models of other participants were quite good for public submissions but weren't as good for private lidearboard.
 
-## How the data was presented?
+## How the data were presented?
 ![image](https://github.com/MaksKhan/RuCode_6.5/assets/72515541/274d8000-c244-455a-832e-857ac3327f4e)
 
 ### Typical sample:
