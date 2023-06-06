@@ -1,4 +1,4 @@
-# Final solution of RuCode 7
+# Final solution to RuCode 7
 
  # 🚀 What is RuCode?
 
